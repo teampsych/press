@@ -3,7 +3,7 @@ The Team Psych Press Kit, maintained by @thelonewarrior.
 
 ## About the Press Kit
 
-The press kit's aim is for you to use the standard colour ranges, usages of the logo, and Mascot assets optimally. 
+The press kit's aim is for you to use the standard colour ranges and understand the usages of the logo 
 
 ## Disclaimer
 
