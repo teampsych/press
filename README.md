@@ -22,11 +22,6 @@ If you have any questions, please contact the following persons.
 
 ![Logo](PsychLogo.png)
 
-Logo uses [Coffee & Tea](https://www.dafont.com/coffee-and-tea.font), and only comes with the grey and navy versions.
+Logo uses [Coffee & Tea](https://www.dafont.com/coffee-tea.font), and only comes with the grey and navy versions.
 
-## Colour pallettes
-
-![Colour Pallettes](ColorPallette.png)
-
-These are the prescribed color ranges we use.
 
