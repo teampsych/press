@@ -9,7 +9,6 @@ The press kit's aim is for you to use the standard colour ranges, usages of the 
 
 Doki Doki: Literature Club!, logo, and artworks are Copyright Team Salvato. All Rights Reserved.
 
-Noto Sans CJK is a font by Google Inc. Released under the SIL Open Font License.
 
 The Team Psych Logo is licensed under Creative Commons 3.0 Non-Commercial-Unported under:
 
@@ -20,7 +19,7 @@ If you have any questions, please contact the following persons.
 
 ## Logo
 
-![Logo](PsychLogos.png)
+![Logo](TeamPsychLogoColorGuides.png)
 
 Logo uses [Coffee & Tea](https://www.dafont.com/coffee-tea.font), and only comes with the grey and navy versions.
 
