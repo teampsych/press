@@ -21,6 +21,6 @@ If you have any questions, please contact the following persons.
 
 ![Logo](TeamPsychLogoColorGuides.png)
 
-Logo uses [Coffee & Tea](https://www.dafont.com/coffee-tea.font), and only comes with the grey and navy versions.
+Logo uses [Coffee & Tea](https://www.dafont.com/coffee-tea.font), and only comes with the grey and white versions.
 
 
